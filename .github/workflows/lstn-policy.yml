@@ -14,5 +14,5 @@ jobs:
       - name: lstn policy
         uses: garnet-org/lstn-policy@v0.0.3
         with:
-          rule-name: 'ignore_priority_medium'
+          rule-name: 'block_node_gyp_execution'
           
